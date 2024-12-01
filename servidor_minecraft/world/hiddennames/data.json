@@ -1,0 +1,56 @@
+[
+  {
+    "uuid": "f27f672a-4a59-371d-8354-dc2d17a70e95",
+    "displayName": {
+      "insertion": "Colomer3213",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Colomer3213 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "f27f672a-4a59-371d-8354-dc2d17a70e95",
+          "name": {
+            "text": "Colomer3213"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Colomer3213"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "133eecb1-eb6b-36a9-9ea9-c82e2ad13375",
+    "displayName": {
+      "insertion": "Danielgp_05",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Danielgp_05 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "133eecb1-eb6b-36a9-9ea9-c82e2ad13375",
+          "name": {
+            "text": "Danielgp_05"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Danielgp_05"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
